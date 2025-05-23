@@ -1,0 +1,13 @@
+[Settings]
+AutoConnect=True
+AlwaysRandomizeAddress=false
+
+[IPv4]
+Address=192.168.7.99
+Netmask=255.0.0.0
+
+[Security]
+PreSharedKey=44cf6805ab189917ca36fb76bc5daac34040fb6a3de5fca3bad7a25d812b0a66
+Passphrase=ringenberg
+SAE-PT-Group19=4d8106ca36337194ff4a790abae69aff941858bc9d59f248e9ef8597a2f1a15802e5f99b32cc8bbbde003471fdc51fcaf0237ba7ed3866a91d80397cc98cd149
+SAE-PT-Group20=b1122444c074d70f5a8a3b110d1ef1bf86384ddd16e856771cb85122b30b34d713a67a635bbdb0fbde150b1abda233094aa125d3f051ff6b97cc11462f26cb7ca74570eb6e2efd57ef4dcce43e63c40ec7214bf37ad90b522a7e2d62767d3e57

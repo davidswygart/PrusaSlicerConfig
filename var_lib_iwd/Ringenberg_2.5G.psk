@@ -1,0 +1,10 @@
+[Settings]
+AutoConnect=True
+AlwaysRandomizeAddress=false
+
+[IPv4]
+Address=192.168.7.99
+Netmask=255.0.0.0
+
+[Security]
+Passphrase=ringenberg

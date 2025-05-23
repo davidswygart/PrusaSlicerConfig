@@ -1,0 +1,13 @@
+[Settings]
+AutoConnect=True
+AlwaysRandomizeAddress=false
+
+[IPv4]
+Address=192.168.1.2
+Netmask=255.0.0.0
+
+[Security]
+PreSharedKey=5042543d9253f5adeccda170f24a4fbc8c466890b3a5b2f908d775d712ce13ca
+Passphrase=bythebeach
+SAE-PT-Group19=3c64b5c92727887a25f268d0bb61ab283f036a4f10855b5864dfabd1cd893c14ee7be015e9a57c6317f34dc51fc06f7b3059fb244f453e60d80defe701fd878c
+SAE-PT-Group20=f7108e09ca3298d54bbac21e55a19ed79ee8558bea94a875deca32269b1598080122cd5380dd62f03e0d5f6a084674fc754f5ed19dbc2ca622927f6a49e4683cc78d0d92aaee5e5215e6bc509f57162f192d37f9a67d8e505902edc7733cffdd
